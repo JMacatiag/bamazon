@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon stock system",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^5.1.0",
+    "mysql": "^2.15.0",
+    "install": "^0.10.4",
+    "npm": "^5.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMacatiag/bamazon.git"
+  },
+  "author": "Jessie Macatiag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMacatiag/bamazon/issues"
+  },
+  "homepage": "https://github.com/JMacatiag/bamazon#readme"
+}
